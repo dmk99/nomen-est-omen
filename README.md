@@ -28,9 +28,14 @@ It's complicated.
 
 ### 1. Add dependencies
 
-In your Gradle or Maven project, add:
-
-    com.oblac:nomen-est-omen:<version>
+1. Add jitpack to your repositories
+    ```
+    maven { url 'https://jitpack.io' }
+    ```
+2. In your Gradle
+    ```
+    implementation 'com.github.dmk99:nomen-est-omen:1.2.4'
+    ``` 
 
 ### 2. Use it
 
