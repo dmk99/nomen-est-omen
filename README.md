@@ -32,6 +32,7 @@ It's complicated.
     ```
     maven { url 'https://jitpack.io' }
     ```
+    
 2. In your Gradle
     ```
     implementation 'com.github.dmk99:nomen-est-omen:1.2.4'
