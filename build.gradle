@@ -18,10 +18,10 @@ apply plugin: 'maven-publish'
 apply plugin: 'io.codearte.nexus-staging'
 
 group = 'com.oblac'
-version = '1.2.3'
+version = '1.2.4'
 
-sourceCompatibility = 1.7
-targetCompatibility = 1.7
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
 
 rootProject.description = 'Random names generator; for IDs or fun.'
 

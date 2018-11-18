@@ -18,6 +18,10 @@ Generated names may consist of:
 For example, you can get names such: `hungry_navy_babbage`
 or `dreamy_cray`. Isn't this super great?
 
+## Changes
+
+* Compiled for Java 1.8
+
 ## Usage
 
 It's complicated.
